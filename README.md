@@ -1,4 +1,4 @@
-# Water Potaility Prediction
+# Water Potability Prediction
 
 ### Water potability prediction will help us to figure out if the water is drinkable or not
 
