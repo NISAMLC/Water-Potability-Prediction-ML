@@ -5,3 +5,4 @@
 - Data Exploration and Feature Engineering
 - Tried Traditional Machine Learning algorithms
 - Applied Auto ML techniques 
+- Measured the Performance of Models
